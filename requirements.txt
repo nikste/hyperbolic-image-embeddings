@@ -1,0 +1,14 @@
+click==7.1.2
+dataclasses==0.8
+-e git+https://github.com/leymir/hyperbolic-image-embeddings@9e84d35497598a1ba99a3c38ea79bfaf47f8d076#egg=hyptorch
+joblib==1.0.1
+nltk==3.5
+numpy==1.19.5
+Pillow==8.2.0
+pkg-resources==0.0.0
+regex==2021.4.4
+scipy==1.5.4
+torch==1.8.1
+torchvision==0.9.1
+tqdm==4.60.0
+typing-extensions==3.7.4.3
